@@ -12014,4 +12014,9 @@ textarea.form-control-lg {
 }
 .introduce__card-subtitle {
   color: #4f7b9d;
+}
+
+.card {
+  border: none;
+  background-color: transparent;
 }/*# sourceMappingURL=main.css.map */
